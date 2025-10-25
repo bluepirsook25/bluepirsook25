@@ -1,5 +1,5 @@
 # 💫 About Me:
-Detail-oriented Quality Assurance Tester with more than 2 years of experience in <br>manual and a bit automated testing for software and materials. Proficient in <br>Python, various testing frameworks, and project management tools like Jira <br>and Azure DevOps. Proven ability to enhance process efficiency, lead teams, <br>and ensure product quality through meticulous documentation and root cause <br>analysis. Seeking to apply technical and analytical skills to drive product 
+Detail-oriented Quality Assurance Tester with more than 2 years of experience in <br>manual and selenium, playwright automateion testing for software and materials. Proficient in <br>Python, various testing frameworks, and project management tools like Jira <br>and Azure DevOps. Proven ability to enhance process efficiency, lead teams, <br>and ensure product quality through meticulous documentation and root cause <br>analysis. Seeking to apply technical and analytical skills to drive product 
 
 
 ## 🌐 Socials:
